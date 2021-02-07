@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello world 👋
+
+I'm a 3rd year BSIT student major in Systems Development at PHINMA University of Pangasinan. I'm also a DSC Lead at DSC PHINMA UPang ❤️💙💚💛
+
+- 🔭 I’m currently working on my capstone project
+- 🌱 I’m currently learning frameworks
+- 👯 I’m looking to collaborate on exciting projects
+- 💬 Ask me about Mobile and/or Web Development (I'll try my best to answer)
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeofferson&show_icons=true&theme=radical)
 
