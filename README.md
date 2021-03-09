@@ -6,6 +6,7 @@ I'm a 3rd year BSIT student major in Systems Development at PHINMA University of
 - 🌱 I’m currently learning frameworks, frameworks, and even more frameworks!
 - 👯 I’m looking to collaborate on exciting projects
 - 💬 Ask me about Mobile and/or Web Development (I'll try my best to answer 🙂)
+- 📫 How to reach me: just email me at jeoffersond@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: My first course of choice is not BSIT, it's Marine Engineering (I didn't know a single thing about coding or anything IT-related until college)
 
