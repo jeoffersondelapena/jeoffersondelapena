@@ -14,6 +14,8 @@ I'm a 3rd year BSIT student major in Systems Development at PHINMA University of
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeofferson&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeofferson&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 ### Get in Touch
 
 - Personal Portfolio: https://jeofferson.github.io/
