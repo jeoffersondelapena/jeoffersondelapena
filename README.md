@@ -3,7 +3,7 @@
 
 I'm a 3rd year BSIT student major in Systems Development at PHINMA University of Pangasinan. I'm also a Google DSC Lead at DSC PHINMA UPang ❤️💙💚💛
 
-- 🔭 I’m currently working on my capstone project (to be implemented by more than 8 universities in the Philippines)
+- 🔭 I’m currently working on honing my skillset
 - 🌱 I’m currently learning frameworks, frameworks, and even more frameworks!
 - 👯 I’m looking to collaborate on exciting projects
 - 💬 Ask me about Mobile and/or Web Development (I'll try my best to answer 🙂)
