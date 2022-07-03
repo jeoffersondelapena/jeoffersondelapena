@@ -1,7 +1,7 @@
 
 ### Hello world 👋
 
-I'm a 4th-year BSIT student major in Systems Development at PHINMA University of Pangasinan. I'm also working full-time as an Android Software Engineer II at Stratpoint Global Outsourcing, Inc. 🖤
+I'm currently working full-time as an Android Software Engineer II at Stratpoint Global Outsourcing, Inc. 🖤
 
 - 🔭 I’m currently working on honing my skillset
 - 🌱 I’m currently learning frameworks, frameworks, and even more frameworks!
