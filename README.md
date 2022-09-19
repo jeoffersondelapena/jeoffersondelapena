@@ -1,7 +1,7 @@
 
 ### Hello world 👋
 
-I'm currently working full-time as Software Engineer II at Stratpoint Global Outsourcing, Inc. 🖤
+I'm currently working as a Software Engineer (Android and iOS) 🖤
 
 - 🔭 I’m currently working on honing my skillset
 - 🌱 I’m currently learning frameworks, frameworks, and even more frameworks!
