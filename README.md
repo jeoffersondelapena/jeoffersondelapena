@@ -11,11 +11,11 @@ I'm currently working as a Software Engineer (iOS and Android) 🖤
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: My first course of choice is not BSIT, it's Marine Engineering (I didn't know a single thing about coding or anything IT-related until college)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeofferson&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeoffersondelapena&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeofferson&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeoffersondelapena&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeofferson&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeoffersondelapena&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ### Get in Touch
 
@@ -26,7 +26,7 @@ I'm currently working as a Software Engineer (iOS and Android) 🖤
 - Instagram: https://www.instagram.com/jeoffdelapena
 
 <!--
-**Jeofferson/Jeofferson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jeoffersondelapena/jeoffersondelapena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
