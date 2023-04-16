@@ -19,7 +19,7 @@ I'm currently working as a Software Engineer (iOS and Android) 🖤
 
 ### Get in Touch
 
-- Personal Portfolio: https://jeofferson.github.io/
+- Personal Portfolio: https://jeoffersondelapena.github.io/
 - LinkedIn: https://www.linkedin.com/in/jeoffersondelapena
 - Twitter: https://twitter.com/jeoffdelapena
 - Facebook: https://www.facebook.com/jeoffdelapena
