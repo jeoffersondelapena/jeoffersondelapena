@@ -3,10 +3,10 @@
 
 I'm currently working as a Software Engineer (iOS and Android) 🖤
 
-- 🔭 I’m currently working on honing my skillset
-- 🌱 I’m currently learning frameworks, frameworks, and even more frameworks!
+- 🔭 I’m always honing my skillset
+- 🌱 I’m always learning
 - 👯 I’m looking to collaborate on exciting projects
-- 💬 Ask me about Mobile and/or Web Development (I'll try my best to answer 🙂)
+- 💬 Ask me about Software Engineering
 - 📫 How to reach me: just email me at jeoffersond@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: My first course of choice is not BSIT, it's Marine Engineering (I didn't know a single thing about coding or anything IT-related until college)
