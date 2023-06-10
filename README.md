@@ -1,7 +1,7 @@
 
 ### Hello world 👋
 
-I'm currently working as a Software Engineer (iOS and Android) 🖤
+I'm currently working as a Software Engineer 🖤
 
 - 🔭 I’m always honing my skillset
 - 🌱 I’m always learning
