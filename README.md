@@ -9,7 +9,6 @@ I'm currently working as a Software Engineer 🖤
 - 💬 Ask me about Software Engineering
 - 📫 How to reach me: just email me at jeoffersond@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: My first course of choice is not BSIT, it's Marine Engineering (I didn't know a single thing about coding or anything IT-related until college)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeoffersondelapena&show_icons=true&theme=radical)
 
